@@ -1,0 +1,3 @@
+app:
+  messaging:
+    queue-name: demoQueue
