@@ -21,9 +21,3 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-amqp")
     implementation("org.springframework.boot:spring-boot-starter-json")
 }
-
-tasks {
-    test {
-        useJUnitPlatform()
-    }
-}
